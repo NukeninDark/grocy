@@ -1,3 +1,5 @@
+FORK from Grocy ADDON, just to make it work. I will not mantaining it
+
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/hacs/integration)
 
 ---
