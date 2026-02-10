@@ -4,7 +4,7 @@
             "user": {
                 "title": "Connect to your Grocy instance",
                 "data": {
-                    "url": "Grocy API URL (e.g. \"http://yourgrocyurl.com\")",
+                    "url": "Grocy API URL",
                     "api_key": "Grocy API Key",
                     "port": "Port Number (9192)",
                     "verify_ssl": "Verify SSL Certificate"
